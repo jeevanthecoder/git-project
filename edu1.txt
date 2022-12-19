@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hi welcome
-=======
-hi this is the sample text document for git
->>>>>>> firstbranch
