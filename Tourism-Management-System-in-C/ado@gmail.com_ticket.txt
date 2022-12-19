@@ -1,0 +1,8 @@
+TOURISM TICKET
+===============
+
+Email ID: ado@gmail.com
+Tour Code: DD
+Ticket Cost: P 12000.000000
+Number of tickets: 1
+Total Cost: P 12000.000000

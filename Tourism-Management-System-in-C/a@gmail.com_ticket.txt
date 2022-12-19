@@ -1,0 +1,8 @@
+TOURISM TICKET
+===============
+
+Email ID: a@gmail.com
+Tour Code: AA
+Ticket Cost: P 60000.000000
+Number of tickets: 1
+Total Cost: P 60000.000000
